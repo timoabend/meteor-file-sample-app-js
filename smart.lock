@@ -1,0 +1,33 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "fileCollection": {},
+      "jquery-cookie": {},
+      "numeral": {},
+      "bootstrap-3": {}
+    },
+    "packages": {
+      "fileCollection": {
+        "git": "https://github.com/vsivsi/meteor-file-collection.git",
+        "tag": "v0.2.3",
+        "commit": "71ee5e2cce54794cacc0543fd26c769a2eb2ef37"
+      },
+      "jquery-cookie": {
+        "git": "https://github.com/BenjaminRH/meteor-jquery-cookie.git",
+        "tag": "v0.1.0",
+        "commit": "084bc5bf612639008efe03f3948e816df44c0f36"
+      },
+      "numeral": {
+        "git": "https://github.com/vsivsi/meteor-numeral.git",
+        "tag": "v1.5.3",
+        "commit": "bdc97fc69bee7dadae1fc0f97fa6d9d76a03e73d"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.2.0-1",
+        "commit": "17a63902fc6cf1096c5289d963c66cf28b474727"
+      }
+    }
+  }
+}
